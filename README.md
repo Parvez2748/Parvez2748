@@ -28,31 +28,30 @@ CGPA: 3.98/4.00 | 2nd Position
 Patuakhali Science and Technology University  
 CGPA: 3.831/4.00 | 1st Position
 
+
 ## 🛠️ Technical Skills
 
-**Programming**
-- R
-- C
+### 💻 Programming
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-**GIS & Spatial Analysis**
-- ArcGIS
+### 🌍 GIS & Spatial Analysis
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge)
 
-**Statistical Analysis**
-- SPSS
-- STATA
-- Microsoft Excel
+### 📊 Statistical Analysis
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)
+![STATA](https://img.shields.io/badge/STATA-1A5F91?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Data Collection & Management**
-- KoboToolbox
-- Taroworks
-- Google Forms
+### 📝 Data Collection & Management
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-29A3A3?style=for-the-badge)
+![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge)
+![TaroWorks](https://img.shields.io/badge/TaroWorks-4472C4?style=for-the-badge)
 
-**Research Skills**
-- Research Design
-- Field Data Collection
-- Qualitative & Quantitative Analysis
-- Scientific Writing
-- Data Management
+### 🔧 Currently Learning
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 💼 Research Experience
 
